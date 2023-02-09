@@ -3,4 +3,4 @@
 
 	It displays the content of the directory
 4-listmorefiles
-	Display current directory contents, including hidden files (starting with .)
+	Display current directory contents, including hidden file starting with.
