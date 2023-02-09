@@ -1,6 +1,6 @@
 0-current_working_directory
 	This command prints the current working directoryo
 
-	It displays the content of the direcoy
+	It displays the content of the directory
 4-listmorefiles
-	Display current content including hidden files
+	Display current contents, including the hidden files
