@@ -8,3 +8,5 @@
 	Display the content of /etc/passwd and /etc/hosts
 4-lastlines
 	Display the last lines of the file
+5-firstlines
+	Display the first 10 lines of the file
