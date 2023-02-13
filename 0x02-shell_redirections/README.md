@@ -12,3 +12,5 @@
 	Display the first 10 lines of the file
 6-third_line
 	The file iacta will be in the working directory
+7-file
+	This will create a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
