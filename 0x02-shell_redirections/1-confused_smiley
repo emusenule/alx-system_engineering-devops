@@ -1,2 +1,2 @@
 #!/bin/bash
-tail 1-confused_smile "(Ôo)'
+tail -n 1-confused_smile "(Ôo)'
