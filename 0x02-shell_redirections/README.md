@@ -10,3 +10,5 @@
 	Display the last lines of the file
 5-firstlines
 	Display the first 10 lines of the file
+6-third_line
+	The file iacta will be in the working directory
