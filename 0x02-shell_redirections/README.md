@@ -25,4 +25,6 @@
 12-newest_files
 	The command displays the 10 newest files in the current directory.
 13-unique
-	that takes a list of words as input and prints only words that appear exactly once.
+	that takes a list of words as input and prints only words that appear exactly once
+14-findthatword
+	The command display lines containing the pattern “root” from the file /etc/passwd
