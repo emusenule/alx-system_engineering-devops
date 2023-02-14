@@ -14,3 +14,5 @@
 	The file iacta will be in the working directory
 7-file
 	This will create a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+8-cwd_state
+	The command will writes into the file ls_cwd_content the result of the command ls -la
