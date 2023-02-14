@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r 
+tr -s '\n' < file.txt > new_file.txt
