@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s '\n' < file.txt > new_file.txt
+tr -d "Cc"
