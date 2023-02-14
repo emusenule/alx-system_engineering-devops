@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/$/\r/' <.cshrc >temp
+tr 'A' 'Z' | tr 'c' 'e'
