@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "files in the /boot directory"
-cd/boot
 ls -la
